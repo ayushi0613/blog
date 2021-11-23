@@ -1,0 +1,81 @@
+.drawings {
+  margin: 0;
+  border: none;
+  padding: none;
+  background: rgb(2, 79, 89, 0.6);
+}
+
+.head {
+  margin: 0;
+  padding: 10px 0 0 0;
+  color: #c8d4d0;
+  text-align: center;
+}
+
+.pics-list {
+  margin: 4% 0;
+  width: 100%;
+  height: auto;
+  padding: 0;
+  border: 0;
+}
+
+.pics {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: 29%;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.pics a {
+  text-decoration: none;
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+.blog-pics {
+  width: 75%;
+  height: 65%;
+  margin: 0;
+  border-bottom: 40px solid #fff;
+  padding: 0;
+}
+
+.img-desc {
+  font-size: 13px;
+  font-weight: bold;
+  padding: 0;
+  width: 70%;
+  text-align: end;
+  color: #024f59;
+  font-family: 'VT323', monospace;
+  margin: -11% 0 0 0;
+}
+
+.comment {
+  margin: 0;
+  padding: 1%;
+  border: 0;
+}
+
+label {
+  color: #fff;
+}
+
+input[type=submit] {
+  background-color: #7babaf;
+  color: white;
+  padding: 12px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: center;
+  margin: 0;
+}
+
+input[type=submit]:hover {
+  background-color: #86b4c1;
+}

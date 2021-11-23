@@ -1,0 +1,44 @@
+.container, .myimg, .my-img, .content, .intro, .about {
+  margin: 0;
+  padding: 0;
+  border: 0:;
+}
+
+.container {
+  width: 80%;
+  align-items: center;
+  display: inline-block;
+  padding: 5%;
+  background: rgb(2, 79, 89, 0.8);
+  margin-top: 1%;
+}
+
+.myimg {
+  float: left;
+  width: 30%;
+  padding-left: 2%;
+}
+
+.my-img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
+
+.content {
+  float: right;
+  width: 60%;
+  text-align: justify;
+}
+
+.intro {
+  padding: 1%;
+  font-size: 20px;
+  color: #fff;
+}
+
+.about {
+  font-size: 17px;
+  padding: 1%;
+  color: #c8d4d0;
+}
